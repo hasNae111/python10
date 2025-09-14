@@ -1,4 +1,5 @@
 Exercice : Analyse approfondie des employés d’une entreprise tech
+
 Partie 1 : Chargement et exploration du dataset
 Charger le fichier employees2.csv dans un DataFrame Pandas.
 Afficher les premières lignes du DataFrame.
